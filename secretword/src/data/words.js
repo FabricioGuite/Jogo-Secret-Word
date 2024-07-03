@@ -1,0 +1,22 @@
+export const wordsList = {
+  carro: ["Motor", "Porta", "Capô", "Pneu", "Antena", "Parabrisa", "Retrovisor", "Volante", "Farol", "Bateria"],
+  fruta: ["Banana", "Maçã", "Pêra", "Mamão", "Laranja", "Abacaxi", "Manga", "Uva", "Morango", "Melancia"],
+  corpo: ["Braço", "Perna", "Cérebro", "Pescoço", "Olhos", "Coração", "Pulmão", "Estômago", "Mão", "Pé"],
+  computador: ["Mouse", "Teclado", "Monitor", "Gabinete", "CPU", "Memória", "Placa-Mãe", "Fonte", "SSD", "HD"],
+  programação: ["Linguagem", "Framework", "JavaScript", "React", "Python", "HTML", "CSS", "Java", "Node", "Ruby"],
+  alimento: ["Arroz", "Feijão", "Carne", "Leite", "Ovo", "Pão", "Queijo", "Tomate", "Cenoura", "Batata"],
+  esporte: ["Futebol", "Basquete", "Vôlei", "Natação", "Tênis", "Boxe", "Corrida", "Ciclismo", "Ginástica", "Golfe"],
+  animal: ["Cachorro", "Gato", "Elefante", "Leão", "Tigre", "Girafa", "Zebra", "Macaco", "Pássaro", "Peixe"],
+  cidade: ["São Paulo", "Rio de Janeiro", "Curitiba", "Porto Alegre", "Salvador", "Brasília", "Manaus", "Fortaleza", "Recife", "Belo Horizonte"],
+  cor: ["Vermelho", "Azul", "Verde", "Amarelo", "Preto", "Branco", "Roxo", "Laranja", "Rosa", "Cinza"],
+  profissão: ["Médico", "Engenheiro", "Professor", "Advogado", "Arquiteto", "Dentista", "Enfermeiro", "Policial", "Bombeiro", "Jornalista"],
+  país: ["Brasil", "Estados Unidos", "Canadá", "Alemanha", "França", "Japão", "China", "Rússia", "Itália", "Índia"],
+  objeto: ["Cadeira", "Mesa", "Lâmpada", "Telefone", "Relógio", "Caneta", "Livro", "Computador", "Televisão", "Geladeira"],
+  planta: ["Rosa", "Tulipa", "Girassol", "Orquídea", "Cacto", "Bambu", "Samambaia", "Árvore", "Hibisco", "Violeta"],
+  instrumento: ["Violão", "Piano", "Bateria", "Flauta", "Saxofone", "Violino", "Guitarra", "Trompete", "Baixo", "Teclado"],
+  veículo: ["Carro", "Moto", "Bicicleta", "Ônibus", "Trem", "Navio", "Avião", "Caminhão", "Patinete", "Trator"],
+  música: ["Rock", "Pop", "Jazz", "Clássica", "Reggae", "Samba", "Funk", "Hip-hop", "Blues", "Eletrônica"],
+  clima: ["Verão", "Inverno", "Outono", "Primavera", "Chuva", "Sol", "Nublado", "Ventania", "Tempestade", "Neve"],
+  material: ["Madeira", "Plástico", "Vidro", "Metal", "Papel", "Tecido", "Borracha", "Cerâmica", "Couro", "Lã"],
+};
+
